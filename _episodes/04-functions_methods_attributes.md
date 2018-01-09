@@ -1,37 +1,34 @@
 ---
-title: "Python and the Programming Environment"
-teaching: 20
-exercises: 0
+title: "Functions, Methods and Attributes"
+teaching: 25
+exercises: 10
 questions:
-- "What is Python?"
-- "What is Anaconda and Conda?"
-- "What are the Project Jupyter and the related Jupyter Notebooks?"
+- "What is a function?"
+- "What is a method?"
+- "What is an attribute?"
 objectives:
-- "Get an overview of Python and the programming environment"
-- "Get to know tools for interactive scientific computing"
+- "Know how to create a Python Object using a function call"
+- "Know the difference between an Methid and an Attribute"
 keypoints:
-- "Python is an interpreted high-level programming language."
-- "Python comes with batteries included, its standard library; however there are
-many more libraries out there, and Conda is a popular package manager to facilitate installation."
-- "The Jupyter Notebooks are a web-based interactive and language agnostic development environment. 
-These notebooks are particular suited for interactive computing, exploratory data analysis and reporting."  
+- "(Most) functions return an object."
+- "Objects have Attributes and specific methods to be applied."  
 ---
 
-## Introduction to Python
+## Function calls
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ***
 
 
-## Computational Environment and Packages
+## Objects and Attributes
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ***
 
 
-## Jupyter Notebooks and Interactive Computing
+## Objects and Methods
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
